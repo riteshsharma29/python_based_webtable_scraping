@@ -1,5 +1,7 @@
 # python_based_webtable_scraping
 
+Task : Automating task of downloading html web tables from webpages.
+
 Purpose : 
 This Python pandas based windows/Linux binary is for extracting html table information from webpage into an xlsx file with ease. 
 Please use this tool for ethical web scraping only. 

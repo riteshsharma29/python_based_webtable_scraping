@@ -1,7 +1,7 @@
 # python_based_webtable_scraping
 
 Purpose : 
-This Python pandas based windows binary is for extracting html table information from webpage into an xlsx file with ease. 
+This Python pandas based windows/Linux binary is for extracting html table information from webpage into an xlsx file with ease. 
 Please use this tool for ethical web scraping only. 
 Any possible tool error will be logged in the log.txt file.
 
@@ -12,6 +12,10 @@ USAGE:
 4) Run webtable_extractor.exe
 5) Webtables will be extracted in the tables.xlsx file. Ignore the 1st sheet.
 
-Requirement :
+Python Requirement :
 
-Requires rights of windows system to run this standalone exe program.
+pandas
+openpyxl
+codecs
+sys
+os

@@ -12,10 +12,12 @@ USAGE:
 4) Run webtable_extractor.exe
 5) Webtables will be extracted in the tables.xlsx file. Ignore the 1st sheet.
 
-Python Requirement :
+Python Dependencies OR Requirement [Linux users can use pip and windows users can sue pip.exe ]:
 
 pandas
 openpyxl
 codecs
 sys
 os
+
+For queries email@ : ritesh.sharma29@gmail.com

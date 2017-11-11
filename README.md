@@ -22,4 +22,4 @@ codecs
 sys
 os
 
-For queries email@ : ritesh.sharma29@gmail.com
+
